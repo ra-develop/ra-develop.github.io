@@ -14,7 +14,7 @@ I am current work for migrating thise application to the new platform from Googl
 
 ## My old projects:
 
-1. **LLC "Rescona Group"** - privat company in Kazakhstan ["RESearch CONsulting and Analisys Group"](http://www.rescona.kz/index.html "www.rescona.kz"). This company since in 2002 year for implementing, maintain the core banking system "BISQUIT" ("QBIS") developed in Russia (ZAO "BIS") in banks of Kazakhstan. this system vased on products and technologies of Progress Software (USA). Responsobility of company include of implementation of banking system was in adaptation and localisation  this product for goverment regulation, full enroll implementation maintain and support of localized parts of system and first line support for all other system modules. Under my leadership and direct involvement this system was implimented in folow banks:
+1. **LLC "Rescona Group"** - privat company in Kazakhstan ["RESearch CONsulting and Analisys Group"](http://www.rescona.kz/index.html "www.rescona.kz"). This company founded me since in 2002 year for implementing and maintain the core banking system "BISQUIT" ("QBIS") developed in Russia (ZAO "BIS") in banks of Kazakhstan. This system based on products and technologies of [Progress Software (USA)](https://www.progress.com/ "Progress Software"). Responsobility of company include of implementation of banking system was in adaptation and localisation  this product for goverment regulation, full enroll implementation maintain and support of localized parts of system and first line support for all other system modules. Under my leadership and direct involvement this system was implimented in folow banks:
     * Sberbank of Russia in Kazakhstan
     * Bank Astana
     * Eximbank of Kazakhstan  
