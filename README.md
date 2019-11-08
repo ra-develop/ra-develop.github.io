@@ -1,2 +1,2 @@
-# ra-develop.github.io
+# Rashid Amanzholov
 Rashid Amanzholov personal page
