@@ -1,3 +1,3 @@
-![My Photo](DSC04102-Rashid_cropped_compressed.jpg=100x100 "It is me!")
-# Rashid Amanzholov
+
+# <img src="SC04102-Rashid_cropped_compressed.jpg" alt="drawing" width="200"/> Rashid Amanzholov
 Rashid Amanzholov personal page
