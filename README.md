@@ -29,7 +29,7 @@ In 2016 year my company start developing the mobile applications. In result crea
 ## My last certificates
 It is just for checking of my skils and test for my knoweledge in new technologies of software developing.
 
-<img src='https://www.sololearn.com/Certificate/1051-13851697/jpg/?mode=download' alt="C++" width="200"/>  
-<img src='https://www.sololearn.com/Certificate/1089-13851697/jpg/?mode=download' alt="C++" width="200"/>  
-<img src='https://www.sololearn.com/Certificate/1075-13851697/jpg/?mode=download' alt="C++" width="200"/>  
-<img src='https://www.sololearn.com/Certificate/1073-13851697/jpg/?mode=download' alt="C++" width="200"/>  
+<img src='https://www.sololearn.com/Certificate/1051-13851697/jpg/?mode=download' alt="C++" width="400"/>  
+<img src='https://www.sololearn.com/Certificate/1089-13851697/jpg/?mode=download' alt="C++" width="400"/>  
+<img src='https://www.sololearn.com/Certificate/1075-13851697/jpg/?mode=download' alt="C++" width="400"/>  
+<img src='https://www.sololearn.com/Certificate/1073-13851697/jpg/?mode=download' alt="C++" width="400"/>  
