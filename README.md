@@ -10,7 +10,7 @@
 1. **"Ecocity"** is a social project of ecologyc theme for Kazakhstan. This project includes [mobile application](https://ecocity-acb89.web.app/ "Ecocity Web Page") for [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1287938276&mt=8 "Appstore") and [Android](https://play.google.com/store/apps/details?id=kz.rescona.ecocity "Play market") that allows people improve knowledge about sorting garbage and finding the point of sorting centers. Was created a social network in [Facebook](https://www.facebook.com/ecoalakz "Facebook") and [Instagramm](https://www.instagram.com/e.coala "Instagramm") for community of people who are worried about the ecological future of their city, their country and all the  world.
 I currently work for migrating this application to the new platform from Google: [Flutter/Dart](https://flutter.dev/ "Flutter.dev")  
 
-2. **"Timmy"** (Russian name is "Успевайка (Uspevaika)") is a time managment [mobile application for Android](https://play.google.com/store/apps/details?id=kz.rescona.uspevayka "Play market") for kids and their parents. This application allows children to organize their schedule and their parents can help them to control their first steps in time managing. Therefore, it is necessary in our dynamic modern life.
+2. **"OnTimy"** (Russian name is "Успевайка (Uspevaika)") is a time managment [mobile application for Android](https://play.google.com/store/apps/details?id=kz.rescona.uspevayka "Play market") for kids and their parents. This application allows children to organize their schedule and their parents can help them to control their first steps in time managing. Therefore, it is necessary in our dynamic modern life.
 
 ## My old projects  
 
