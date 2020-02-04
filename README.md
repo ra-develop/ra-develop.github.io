@@ -12,7 +12,7 @@ I currently work for migrating this application to the new platform from Google:
 
 2. **"OnTimy"** (Russian name is "Успевайка (Uspevaika)") is a time managment [mobile application for Android](https://play.google.com/store/apps/details?id=kz.rescona.uspevayka "Play market") for kids and their parents. This application allows children to organize their schedule and their parents can help them to control their first steps in time managing. Therefore, it is necessary in our dynamic modern life.
 
-3. **"LeucaCityTour"** (Copiright 2020 Petese Renato) Tourist Guide of Santa Maria di Leuca , based on MapBox gis engine. Developed by order of Petese Renato using Flutter/Dart framework for [iOS](https://apps.apple.com/us/app/leuca-city-tour/id1495898481?ls=1) and [Android](https://play.google.com/store/apps/details?id=com.leucacitytour.app) platform.
+3. **"LeucaCityTour"** (Copiright 2020 Petese Renato) [Tourist Guide of Santa Maria di Leuca](https://www.leucacitytour.com) , based on MapBox gis engine. Developed by order of Petese Renato using Flutter/Dart framework for [iOS](https://apps.apple.com/us/app/leuca-city-tour/id1495898481?ls=1) and [Android](https://play.google.com/store/apps/details?id=com.leucacitytour.app) platform.
 
 ## My old projects  
 
