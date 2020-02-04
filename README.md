@@ -12,6 +12,8 @@ I currently work for migrating this application to the new platform from Google:
 
 2. **"OnTimy"** (Russian name is "Успевайка (Uspevaika)") is a time managment [mobile application for Android](https://play.google.com/store/apps/details?id=kz.rescona.uspevayka "Play market") for kids and their parents. This application allows children to organize their schedule and their parents can help them to control their first steps in time managing. Therefore, it is necessary in our dynamic modern life.
 
+3. **"LeucaCityTour"** (Copiright 2020 Petese Renato) Tourist Guide of Santa Maria di Leuca , based on MapBox gis engine. Developed by order of Petese Renato using Flutter/Dart framework for [iOS](https://apps.apple.com/us/app/leuca-city-tour/id1495898481?ls=1) and [Android](https://play.google.com/store/apps/details?id=com.leucacitytour.app) platform.
+
 ## My old projects  
 
 1. **LLC "Rescona Group"** - is a private company in Kazakhstan ["RESearch CONsulting and Analisys Group"](http://www.rescona.kz/index.html "www.rescona.kz"). This company was founded by me since 2002 for implementing and maintaining the core banking system "BISQUIT" ("QBIS") developed in Russia (ZAO "BIS") in banks of Kazakhstan. This system is based on products and technologies of [Progress Software (USA)](https://www.progress.com/ "Progress Software"). Responsobility of company include the implementation of banking system that was in adaptation and localisation of this product for government regulations; full enrollment implementation and maintain of localized parts of system; first line support for all other system modules. Under my leadership and direct involvement, this system was implimented in folow banks:
