@@ -31,7 +31,9 @@ In 2016, my company started developing the mobile applications. In result, creat
 ## My last certificates  
 It is just for checking my skills and knoweledge in new technologies of software developing.
 
+<img src='https://www.sololearn.com/Certificate/1068-13851697/jpg/?mode=download' alt="C++" width="400"/>
 <img src='https://www.sololearn.com/Certificate/1051-13851697/jpg/?mode=download' alt="C++" width="400"/>  
 <img src='https://www.sololearn.com/Certificate/1089-13851697/jpg/?mode=download' alt="C++" width="400"/>  
 <img src='https://www.sololearn.com/Certificate/1075-13851697/jpg/?mode=download' alt="C++" width="400"/>  
-<img src='https://www.sololearn.com/Certificate/1073-13851697/jpg/?mode=download' alt="C++" width="400"/>  
+<img src='https://www.sololearn.com/Certificate/1073-13851697/jpg/?mode=download' alt="C++" width="400"/> 
+
