@@ -1,4 +1,4 @@
-<img src='DSC04102-Rashid_cropped_compressed.jpg' alt="My photo" width="200"/>
+<img src='RA-Photo3.jpg' alt="My photo" width="200"/>
 
 # Rashid Amanzholov
 **Shortly about me:** 
