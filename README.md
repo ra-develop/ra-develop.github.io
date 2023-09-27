@@ -7,7 +7,7 @@
 
 ## My projects as mobile developer
 
-0. Soon publication: **"Radio Maria Play TV"** (Copiright: ASSOCIAZIONE RADIO MARIA A.P.S. ENTE MORALE RICONOSCIUTO) [A christian voice to the world on the your TV]. Developed by using Leanback framework for [Android](soon on the "Google Play Market") and SwiftUI for [iOS](soon on the "Apple Store") platforms.
+0. Soon publication: **"Radio Maria Play TV"** (Copiright: ASSOCIAZIONE RADIO MARIA A.P.S. ENTE MORALE RICONOSCIUTO) [A christian voice to the world on the your TV]. Developed by using Leanback framework for [AndroidTV](soon on the "Google Play Market") and SwiftUI for [tvOS](soon on the "Apple Store") platforms.
 
 1. **"Radio Maria Play"** (Copiright: ASSOCIAZIONE RADIO MARIA A.P.S. ENTE MORALE RICONOSCIUTO) [A christian voice to the world](https://www.radiomaria.org). My part of project as the developer for [iOS](https://apps.apple.com/kz/app/radio-maria-play/id848153139 "Apple Store") platform (UIKit).
 
