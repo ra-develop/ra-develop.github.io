@@ -2,8 +2,6 @@
 
 # Rashid Amanzholov
 
-***Computer Science is my work, my hobby and my life*** 
-
 **Shortly about me:** 
 
 ***Experienced Mobile App Developer | iOS, Android, Cross-Platform (Flutter, Kotlin, Swift, Java)***
