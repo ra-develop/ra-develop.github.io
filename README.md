@@ -6,7 +6,7 @@
 
 ***Experienced Mobile App Developer: iOS, Android, Cross-Platform (Flutter, Kotlin, Swift, Java)***
 
-Experienced mobile application developer with a solid foundation in Computer Science and a track record of building high-quality, efficient, and scalable applications. With a proven track record of building full-featured, high-quality native and cross-platform mobile apps, I have developed several successful apps for the Google Play Store and Apple App Store.  
+Experienced mobile application developer with a solid foundation in Computer Science and a track record of building high-quality, efficient, and scalable applications (30+ years). With a proven track record of building full-featured, high-quality native (7+ years) and cross-platform mobile apps (based on Flutter 5+ years), I have developed several successful apps for the Google Play Store and Apple App Store.  
 
 I specialize in mastering the full development cycle, from design to delivery, and am well versed in architectural design, programming languages(Swift, Objective-C, Java, Kotlin, Flutter/Dart, Python, C++) and using various frameworks (SiftUI, UIKit, Android SDK, Jetpack Compose, etc.). My experience also includes testing, performance optimization and ensuring responsiveness and quality of applications (XCTest, Mockito, JUnit, etc.).  In my practice I use CI/CD technology based on the special tools (eg: Fastlane, Jenkins, etc.)
 
