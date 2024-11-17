@@ -20,7 +20,7 @@ I am confident in my ability to make a significant contribution to your project 
 
    2. **"Radio Maria Play TvOS"®**: Developed by using SwiftUI for tvOS (soon on the "Apple Store") platforms. Both iOS and TvOs apps used one code base od business logic and back end services modules.
 
-   3. **"Radio Maria Play AndroidTV"®** (Copyright©: ASSOCIAZIONE RADIO MARIA A.P.S. ENTE MORALE RICONOSCIUTO). Developed core of app by using Leanback framework (Kotlin, Android SDK) for AndroidTV (soon on the "Google Play Market") (soon on the "Apple Store") platforms. Unique implementation of multimodular application structure and clean architecture principles.
+   3. **"Radio Maria Play AndroidTV"®**: Developed core of app by using Leanback framework (Kotlin, Android SDK) for AndroidTV (soon on the "Google Play Market") (soon on the "Apple Store") platforms. Unique implementation of multimodular application structure and clean architecture principles.
 
 2. **"SmemoApp"®** (Copyright©: Smemoranda) [SmemoApp is a digital diary full of features and exclusive contents from the Smemoranda world and its partners.](https://it.wikipedia.org/wiki/Smemoranda). Developed by using Flutter/Dart framework for [Android](https://play.google.com/store/apps/details?id=it.nexid.smemoapp "Google Play Market") and [iOS](unfortunately not available on the "Apple Store" by reson of the owner) platforms.
 
