@@ -48,6 +48,7 @@ It was made only for checking my skills and knoweledge in new technologies of so
 
 <img src='cert_swift4.png' alt="Swift 4" width="400"/>
 <img src='cert_java.png' alt="Java" width="400"/>
+<img src='cert_java_intermediate.jpg' alt="Java" width="400"/>
 <img src='cert_python_core.png' alt="Python Core" width="400"/>
 <img src='cert_c++.png' alt="C++" width="400"/>
 <img src='cert_c.png' alt="C" width="400"/>
