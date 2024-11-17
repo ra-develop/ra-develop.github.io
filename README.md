@@ -4,7 +4,7 @@
 
 **Shortly about me:** 
 
-***Experienced Mobile App Developer | iOS, Android, Cross-Platform (Flutter, Kotlin, Swift, Java)***
+***Experienced Mobile App Developer: iOS, Android, Cross-Platform (Flutter, Kotlin, Swift, Java)***
 
 Experienced mobile application developer with a solid foundation in Computer Science and a track record of building high-quality, efficient, and scalable applications. With a proven track record of building full-featured, high-quality native and cross-platform mobile apps, I have developed several successful apps for the Google Play Store and Apple App Store.  
 
